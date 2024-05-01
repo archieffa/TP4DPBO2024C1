@@ -18,8 +18,8 @@ Tema program ini adalah kelas olahraga yang dinamakan Association of Student-Ath
 
 # ALUR PROGRAM
 
-- Pada page Home, user dapat melihat, menambah, mengubah dan menghapus data anggota. Untuk menambah data anggota, user bisa klik tombol Add New.
-- Pada page data Sports, user dapat melihat, menambah, mengubah dan menghapus data kelas olahraga.
+- Pada page Home, user dapat melihat, menambah, mengubah dan menghapus data anggota. Untuk menambah data, user bisa klik tombol Add New.
+- Pada page Sports, user dapat melihat, menambah, mengubah dan menghapus data kelas olahraga.
 
 # DOKUMENTASI
 
